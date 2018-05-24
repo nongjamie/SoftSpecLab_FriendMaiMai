@@ -18,7 +18,7 @@ This app is not completed, it is only the first version.
 
 ## Who does FriendMaiMai for?
 
-* Every one who wants to make new friends.
+* Everyone who wants to make new friends.
 
 ## Author 
 
